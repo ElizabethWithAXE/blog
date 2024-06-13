@@ -155,12 +155,8 @@ footer {
     letter-spacing: 8px;
     font-family: 'Press Start 2P';
     font-weight: 400;
-    /*Create overlap*/
-    
     margin: 0;
     line-height: 0;
-    /*Animation*/
-    
     animation: glitch1 2.5s infinite;
   }
   
@@ -173,8 +169,7 @@ footer {
     color: #f16f6f;
     animation: glitch3 2.5s infinite;
   }
-  /*Keyframes*/
-  
+
   @keyframes glitch1 {
     0% {
       transform: none;
